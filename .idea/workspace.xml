@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f59eb44-3da4-4864-b39f-fcc09a8233e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/polls/templates/admin" />
     <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New\Python\Polls\mysite\polls\templates\admin" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
